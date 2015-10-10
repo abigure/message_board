@@ -46,3 +46,4 @@ group :development do
 end
 
 gem 'awesome_rails_console'
+gem 'devise'
