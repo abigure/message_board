@@ -10,4 +10,5 @@ Message Borad:
    ✔ Once logged in, the user should see a static page with some kind of greeting. @done (15-10-12 15:11)
    ✔ The page should display the logged-in user's email address and a link to log out. @done (15-10-12 15:11)
 
+
  ✔ Make It Pretty With Bootstrap @done (15-10-12 15:13)
